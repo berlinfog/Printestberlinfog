@@ -1,3 +1,2 @@
 # Printestberlinfog
-website:https://printestberlinfog.netlify.app \n
-Login with google account
+website:https://printestberlinfog.netlify.app
